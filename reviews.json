@@ -1,0 +1,14 @@
+[
+    {
+        "movie": "8 vasanthalu",
+        "reviewer": "bharath",
+        "rating": 2.0,
+        "comment": "good"
+    },
+    {
+        "movie": "kubhera",
+        "reviewer": "sai prasad",
+        "rating": 3.0,
+        "comment": "average"
+    }
+]
