@@ -1,14 +1,14 @@
 [
     {
-        "movie": "8 vasanthalu",
-        "reviewer": "bharath",
-        "rating": 2.0,
-        "comment": "good"
+        "movie": "Interstellar",
+        "reviewer": "Alice",
+        "rating": 4.8,
+        "comment": "Amazing movie!"
     },
     {
-        "movie": "kubhera",
-        "reviewer": "sai prasad",
-        "rating": 3.0,
-        "comment": "average"
+        "movie": "Interstellar",
+        "reviewer": "bob",
+        "rating": 4.5,
+        "comment": "good movie!"
     }
 ]
